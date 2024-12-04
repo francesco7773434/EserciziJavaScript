@@ -70,7 +70,7 @@ let totalCheckout;
 
 if(totalShoppingCart > 50){
   console.log("spedizione gratuita");
-  totaleCheckout = totalShoppingCart
+  totalCheckout = totalShoppingCart
 }
 else {
   console.log("spedizione applicata");
