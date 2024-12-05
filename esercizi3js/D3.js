@@ -167,8 +167,7 @@ switch (character.eye_color){
   case "blue-gray":
     eyeColor.blueGray.push(character);
     break;
-    default:
-      console.log(`Colore degli occhi non classificato per ${character.name}`); 
+     
     
       
 }
